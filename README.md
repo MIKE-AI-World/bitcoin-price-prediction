@@ -1,8 +1,8 @@
-# bitcoin-price-prediction
-AI model for predicting Bitcoin prices using LSTM
-# Bitcoin Price Prediction 🚀
+# bitcoin-price-forcasting
+AI model for forcasting  Bitcoin prices using LSTM
+# Bitcoin Price Forcasting 🚀
 
-This project uses LSTM neural networks to predict Bitcoin prices.
+This project uses LSTM neural networks to forcast Bitcoin prices.
 
 ## Features
 - Data preprocessing
