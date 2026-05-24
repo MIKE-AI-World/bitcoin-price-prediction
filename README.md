@@ -1,8 +1,8 @@
 # BlackEye-bitcoin-forecasting
 AI model for forecasting Bitcoin prices using LSTM
-# Bitcoin Price Forecasting 🚀
 
-This project uses LSTM neural networks to forcast Bitcoin prices.
+# Bitcoin Price Forecasting 🚀
+AI-powered Bitcoin forecasting system using LSTM neural networks and financial market analysis. 
 
 ## Features
 - Data preprocessing
