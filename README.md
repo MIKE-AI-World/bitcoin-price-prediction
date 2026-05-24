@@ -1,4 +1,4 @@
-# blackeye-bitcoin-forecasting
+# BlackEye-bitcoin-forecasting
 AI model for forecasting Bitcoin prices using LSTM
 # Bitcoin Price Forecasting 🚀
 
